@@ -1,0 +1,9 @@
+Due to file size limitations in GitHub, Verify Models have been split into multiple parts.  To combine them using 7Zip:
+
+1. Download/install 7Zip (if you do not already have it)
+
+2. In 7Zip, browse to the folder containing all the parts of the model
+
+3. Right-click the first part (e.g. VerifyModel_20220215.zip.001) and select "Combine files" and accept the current location
+
+4. Browse to the folder in Windows Explorer and open the newly created combined .zip file (e.g. VerifyModel_20220215.zip)

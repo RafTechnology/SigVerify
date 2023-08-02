@@ -1,0 +1,1 @@
+Added clean pairs from Davis & Utah counties to base image dataset
