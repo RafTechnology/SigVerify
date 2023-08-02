@@ -1,1 +1,1 @@
-Added clean pairs from Santa Barbara, Adams, and Douglas counties to base image dataset
+Added clean pairs from Santa Barbara, Adams, and Douglas counties to base image dataset (53,420 pairs)
