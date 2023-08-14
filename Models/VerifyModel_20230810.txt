@@ -1,0 +1,1 @@
+Added clean pairs from new Douglas County set to base image dataset (54,215 pairs)
